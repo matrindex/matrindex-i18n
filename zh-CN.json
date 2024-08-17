@@ -1,0 +1,304 @@
+{
+    "yes": "是",
+    "no": "否",
+    "all": "全部",
+    "loadMore": "加载更多",
+    "condition": "条件",
+    "previousPage": "向前",
+    "nextPage": "向后",
+    "add": "新增",
+    "id": "ID",
+    "name": "名称",
+    "title": "标题",
+    "description": "描述",
+    "parentId": "父级 ID",
+    "createdAt": "创建时间",
+    "updatedAt": "更新时间",
+    "spaceId": "空间 ID",
+    "refresh": "刷新",
+    "remove": "移除",
+    "delete": "删除",
+    "create": "创建",
+    "edit": "编辑",
+    "clear": "清空",
+    "okay": "好",
+    "properties": "属性",
+    "selectTenant": "选择租户",
+    "searchPlaceholder": "输入以搜索...",
+    "submit": "提交",
+    "noContent": "没有内容",
+    "confirm": "确定",
+    "notification": "提示",
+    "pleaseConfirm": "请确认",
+    "cancel": "取消",
+    "root": "根",
+    "noAccess": "禁止访问",
+    "noSelectedItems": "选择一个项目以继续...",
+    "import": "导入",
+    "joinedAt": "加入时间",
+    "actions": "操作",
+    "type": "类型",
+    "actionType": "操作类型",
+    "relationType": "关系类型",
+    "users": "用户",
+    "resourceIdentifier": "资源标识符",
+    "userTenantIdentifier": "租户内用户标识符",
+    "noQuit": "保留成员身份",
+    "filter": "过滤",
+    "transfer": "转交",
+    "enums": {
+        "UserIdentifierType": {
+            "EMAIL": "E-mail",
+            "ID": "ID",
+            "TENANT_IDENTIFIER": "租户标识符"
+        },
+        "RelationType": {
+            "TENANT": "租户",
+            "SPACE": "空间",
+            "RESOURCE": "资源",
+            "DEPARTMENT": "部门"
+        },
+        "MembershipFormDialogAdapterActionType": {
+            "ADD": "添加",
+            "REMOVE": "移除",
+            "TRANSFER": "转交"
+        }
+    },
+    "httpStatus": {
+        "B0310": "权限不足",
+        "B0311": "当前资源访问被拒绝",
+        "B0312": "没有转让权限"
+    },
+    "dateTime": {
+        "year": "年",
+        "month": "月",
+        "date": "日",
+        "hour": "时",
+        "minute": "分",
+        "second": "秒"
+    },
+    "confirmMessages": {
+        "deleteSpace": "确定删除这些空间吗？",
+        "deleteRole": "确定删除这些角色吗？",
+        "deleteMembership": "确定删除这些成员吗？",
+        "deleteSpaceAction": "确定删除这些空间行为吗？"
+    },
+    "ui": {
+        "formDialog": {
+            "SpaceFormDialogAdapter": {
+                "createTitle": "创建空间",
+                "updateTitle": "更新空间"
+            },
+            "SpaceActionFormDialogAdapter": {
+                "createTitle": "创建空间行为",
+                "updateTitle": "更新空间行为"
+            },
+            "RoleFormDialogAdapter": {
+                "createTitle": "创建角色",
+                "updateTitle": "更新角色"
+            },
+            "UserImporter": {
+                "title": "导入用户",
+                "userIdentifierType": "用户标识符类型",
+                "userIdentifiers": "用户标识符"
+            },
+            "MembershipFormDialogAdapter": {
+                "title": "成员操作"
+            }
+        },
+        "infoItem": {
+            "name": "名称",
+            "value": "值"
+        },
+        "nav": {
+            "pageSelector": {
+                "home": "主页",
+                "workspace": "工作区"
+            },
+            "profile": {
+                "bio": "基础信息",
+                "settings": "设置",
+                "logOut": "登出"
+            }
+        },
+        "dropdownMenu": {
+            "empty": "没有可选项"
+        },
+        "form": {
+            "errorMessages": {
+                "required": "此项是必填项",
+                "default": "此项内容格式有误"
+            }
+        },
+        "systemPermissionSelect": {
+            "buttonText": "已授予 {{count}} 个权限"
+        },
+        "filter": {
+            "empty": "设置第一个条件",
+            "operator": "操作符",
+            "operators": {
+                "gt": "大于",
+                "gte": "大于等于",
+                "lt": "小于",
+                "lte": "小于等于",
+                "eq": "等于",
+                "like": "存在",
+                "ne": "不等于"
+            },
+            "instances": {
+                "spaces": {
+                    "fields": {
+                        "name": "名称",
+                        "title": "标题",
+                        "description": "描述",
+                        "createdAt": "创建时间",
+                        "updatedAt": "更新时间"
+                    },
+                    "placeholders": {
+                        "name": "请输入名称",
+                        "title": "请输入标题",
+                        "description": "请输入描述",
+                        "createdAt": "请输入创建时间",
+                        "updatedAt": "请输入更新时间"
+                    }
+                },
+                "space-actions": {
+                    "fields": {
+                        "name": "名称",
+                        "title": "标题",
+                        "description": "描述",
+                        "createdAt": "创建时间",
+                        "updatedAt": "更新时间"
+                    },
+                    "placeholders": {
+                        "name": "请输入名称",
+                        "title": "请输入标题",
+                        "description": "请输入描述",
+                        "createdAt": "请输入创建时间",
+                        "updatedAt": "请输入更新时间"
+                    }
+                },
+                "users": {
+                    "fields": {
+                        "id": "ID",
+                        "email": "E-mail",
+                        "firstName": "首名",
+                        "lastName": "尾名",
+                        "fullName": "全名",
+                        "createdAt": "创建时间",
+                        "updatedAt": "更新时间"
+                    },
+                    "placeholders": {
+                        "id": "请输入 ID",
+                        "email": "请输入 E-mail",
+                        "firstName": "请输入首名",
+                        "lastName": "请输入尾名",
+                        "fullName": "请输入全名",
+                        "createdAt": "请输入创建时间",
+                        "updatedAt": "请输入更新时间"
+                    }
+                },
+                "roles": {
+                    "fields": {
+                        "name": "名称",
+                        "title": "标题",
+                        "description": "描述",
+                        "createdAt": "创建时间",
+                        "updatedAt": "更新时间"
+                    },
+                    "placeholders": {
+                        "name": "请输入名称",
+                        "title": "请输入标题",
+                        "description": "请输入描述",
+                        "createdAt": "请输入创建时间",
+                        "updatedAt": "请输入更新时间"
+                    }
+                }
+            }
+        }
+    },
+    "strategies": {
+        "WORKSPACE": {
+            "empty": "通过下面任意一种方式进入租户...",
+            "create": "创建一个新的租户",
+            "select": "选择一个你已加入的租户"
+        }
+    },
+    "dto": {
+        "SpaceDTO": {
+            "name": "空间"
+        },
+        "UserDTO": {
+            "imageUrl": "头像",
+            "email": "E-mail",
+            "firstName": "首名",
+            "lastName": "尾名",
+            "fullName": "全名"
+        }
+    },
+    "endityEditor": {
+        "space": {
+            "createOrUpdate": {}
+        }
+    },
+    "resources": {
+        "tenant": {
+            "id": "ID",
+            "name": "名称",
+            "title": "标题",
+            "description": "描述",
+            "switchList": {
+                "all": "所有租户"
+            }
+        },
+        "tenants": {
+            "topTitle": "你加入的所有租户",
+            "subTitle": "点击以选择租户，或创建一个新的",
+            "search": {
+                "placeholder": "输入以搜索租户"
+            }
+        }
+    },
+    "components": {
+        "trackViewer": {
+            "orientation": {
+                "horizontal": "水平排列且祖先在最前",
+                "horizontal-reverse": "水平排列且祖先在最后",
+                "vertical": "竖直排列且祖先在顶部",
+                "vertical-reverse": "竖直排列且祖先在底部"
+            }
+        },
+        "table": {
+            "column": {
+                "dropdown": {
+                    "fixLeft": "固定在左侧",
+                    "fixRight": "固定在右侧",
+                    "cancelFix": "取消固定"
+                }
+            }
+        }
+    },
+    "menus": {
+        "TENANT": {
+            "sidebar": {
+                "permissions": "权限",
+                "resources": "资源",
+                "actions": "行为",
+                "departments": "部门",
+                "chronique": "时段",
+                "spaces": "空间",
+                "settings": "设置",
+                "dashboard": "仪表板"
+            }
+        },
+        "SPACE": {
+            "detail": {
+                "properties": "属性",
+                "members": "成员",
+                "actionRelations": "行为关系",
+                "roles": "角色",
+                "permissions": "权限"
+            }
+        }
+    }
+}

@@ -1,0 +1,304 @@
+{
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "loadMore": "Load More",
+    "condition": "Condition",
+    "previousPage": "Previous",
+    "nextPage": "Next",
+    "add": "Add",
+    "id": "ID",
+    "name": "Name",
+    "title": "Title",
+    "description": "Description",
+    "parentId": "Parent ID",
+    "createdAt": "Create Time",
+    "updatedAt": "Update Time",
+    "spaceId": "Space ID",
+    "refresh": "Refresh",
+    "remove": "Remove",
+    "delete": "Delete",
+    "create": "Create",
+    "edit": "Edit",
+    "clear": "Clear",
+    "okay": "OK",
+    "properties": "Properties",
+    "selectTenant": "Select tenant",
+    "searchPlaceholder": "Type to search...",
+    "submit": "Submit",
+    "noContent": "No content",
+    "confirm": "Confirm",
+    "notification": "Nofification",
+    "pleaseConfirm": "Please confirm",
+    "cancel": "Cancel",
+    "root": "Root",
+    "noAccess": "No access",
+    "noSelectedItems": "Select an item to continue...",
+    "import": "Import",
+    "joinedAt": "Join Time",
+    "actions": "Actions",
+    "type": "Type",
+    "actionType": "Action Type",
+    "relationType": "Relation Type",
+    "users": "Users",
+    "resourceIdentifier": "Resource Identifier",
+    "userTenantIdentifier": "User Identifier in Tenant",
+    "noQuit": "Keep Membership",
+    "filter": "Filter",
+    "transfer": "Transfer",
+    "enums": {
+        "UserIdentifierType": {
+            "EMAIL": "E-mail",
+            "ID": "ID",
+            "TENANT_IDENTIFIER": "Tenant Identifier"
+        },
+        "RelationType": {
+            "TENANT": "Tenant",
+            "SPACE": "Space",
+            "RESOURCE": "Resource",
+            "DEPARTMENT": "Departments"
+        },
+        "MembershipFormDialogAdapterActionType": {
+            "ADD": "Add",
+            "REMOVE": "Remove",
+            "TRANSFER": "Transfer"
+        }
+    },
+    "httpStatus": {
+        "B0310": "Permission insufficient",
+        "B0311": "Access for this resource is FORBIDDEN",
+        "B0312": "Not allowed to transfer"
+    },
+    "dateTime": {
+        "year": "Year",
+        "month": "Month",
+        "date": "Date",
+        "hour": "Hour",
+        "minute": "Minute",
+        "second": "Second"
+    },
+    "confirmMessages": {
+        "deleteSpace": "Sure to delete these spaces?",
+        "deleteRole": "Sure to delete these roles?",
+        "deleteMembership": "Sure to delete these memberships?",
+        "deleteSpaceAction": "Sure to delete these space actions?"
+    },
+    "ui": {
+        "formDialog": {
+            "SpaceFormDialogAdapter": {
+                "createTitle": "Create Space",
+                "updateTitle": "Update Space"
+            },
+            "SpaceActionFormDialogAdapter": {
+                "createTitle": "Create Space Action",
+                "updateTitle": "Update Space Action"
+            },
+            "RoleFormDialogAdapter": {
+                "createTitle": "Create Role",
+                "updateTitle": "Update Role"
+            },
+            "UserImporter": {
+                "title": "Import Users",
+                "userIdentifierType": "User Identifier Type",
+                "userIdentifiers": "User Identifiers"
+            },
+            "MembershipFormDialogAdapter": {
+                "title": "Members Operation"
+            }
+        },
+        "infoItem": {
+            "name": "Name",
+            "value": "Value"
+        },
+        "nav": {
+            "pageSelector": {
+                "home": "Home",
+                "workspace": "Workspace"
+            },
+            "profile": {
+                "bio": "Basic Information",
+                "settings": "Settings",
+                "logOut": "Log Out"
+            }
+        },
+        "dropdownMenu": {
+            "empty": "No items"
+        },
+        "form": {
+            "errorMessages": {
+                "required": "It is a required field",
+                "default": "This field is malformed"
+            }
+        },
+        "systemPermissionSelect": {
+            "buttonText": "{{count}} permission(s) granted"
+        },
+        "filter": {
+            "empty": "Set the first condition",
+            "operator": "Operator",
+            "operators": {
+                "gt": "Greater than",
+                "gte": "Greater than or equal to",
+                "lt": "Less than",
+                "lte": "Less than or equal to",
+                "eq": "Equals to",
+                "like": "Like",
+                "ne": "Not equals to"
+            },
+            "instances": {
+                "spaces": {
+                    "fields": {
+                        "name": "Name",
+                        "title": "Title",
+                        "description": "Description",
+                        "createdAt": "Create Time",
+                        "updatedAt": "Update Time"
+                    },
+                    "placeholders": {
+                        "name": "Please input name",
+                        "title": "Please input title",
+                        "description": "Please input description",
+                        "createdAt": "Please input create time",
+                        "updatedAt": "Please input update time"
+                    }
+                },
+                "space-actions": {
+                    "fields": {
+                        "name": "Name",
+                        "title": "Title",
+                        "description": "Description",
+                        "createdAt": "Create Time",
+                        "updatedAt": "Update Time"
+                    },
+                    "placeholders": {
+                        "name": "Please input name",
+                        "title": "Please input title",
+                        "description": "Please input description",
+                        "createdAt": "Please input create time",
+                        "updatedAt": "Please input update time"
+                    }
+                },
+                "users": {
+                    "fields": {
+                        "id": "ID",
+                        "email": "E-mail",
+                        "firstName": "First Name",
+                        "lastName": "Last Name",
+                        "fullName": "Full Name",
+                        "createdAt": "Create Time",
+                        "updatedAt": "Update Time"
+                    },
+                    "placeholders": {
+                        "id": "Please input  ID",
+                        "email": "Please input  E-mail",
+                        "firstName": "Please input First Name",
+                        "lastName": "Please input Last Name",
+                        "fullName": "Please input Full Name",
+                        "createdAt": "Please input Create Time",
+                        "updatedAt": "Please input Update Time"
+                    }
+                },
+                "roles": {
+                    "fields": {
+                        "name": "Name",
+                        "title": "Title",
+                        "description": "Description",
+                        "createdAt": "Create Time",
+                        "updatedAt": "Update Time"
+                    },
+                    "placeholders": {
+                        "name": "Please input name",
+                        "title": "Please input title",
+                        "description": "Please input description",
+                        "createdAt": "Please input create time",
+                        "updatedAt": "Please input update time"
+                    }
+                }
+            }
+        }
+    },
+    "strategies": {
+        "WORKSPACE": {
+            "empty": "Access tenant by any of the following ways...",
+            "create": "Create a new tenant",
+            "select": "Select a tenant you have joined"
+        }
+    },
+    "dto": {
+        "SpaceDTO": {
+            "name": "Space"
+        },
+        "UserDTO": {
+            "imageUrl": "Image",
+            "email": "E-mail",
+            "firstName": "First Name",
+            "lastName": "Last Name",
+            "fullName": "Full Name"
+        }
+    },
+    "endityEditor": {
+        "space": {
+            "createOrUpdate": {}
+        }
+    },
+    "resources": {
+        "tenant": {
+            "id": "ID",
+            "name": "Name",
+            "title": "Title",
+            "description": "Description",
+            "switchList": {
+                "all": "All Tenants"
+            }
+        },
+        "tenants": {
+            "topTitle": "All Tenants You Joined",
+            "subTitle": "Click to select a tenant or create a new one",
+            "search": {
+                "placeholder": "Type to search tenants"
+            }
+        }
+    },
+    "components": {
+        "trackViewer": {
+            "orientation": {
+                "horizontal": "Horizontally and with ancestors at first",
+                "horizontal-reverse": "Horizontally and with ancestors at last",
+                "vertical": "Vertically and wwith ancestors at top",
+                "vertical-reverse": "Vertically and with ancestors at bottom"
+            }
+        },
+        "table": {
+            "column": {
+                "dropdown": {
+                    "fixLeft": "Fix to the left",
+                    "fixRight": "Fix to the right",
+                    "cancelFix": "Cancel fixation"
+                }
+            }
+        }
+    },
+    "menus": {
+        "TENANT": {
+            "sidebar": {
+                "permissions": "Permissions",
+                "resources": "Resources",
+                "actions": "Actions",
+                "departments": "Departments",
+                "chronique": "Chronique",
+                "spaces": "Spaces",
+                "settings": "Settings",
+                "dashboard": "Dashboard"
+            }
+        },
+        "SPACE": {
+            "detail": {
+                "properties": "Properties",
+                "members": "Members",
+                "actionRelations": "Action Relations",
+                "roles": "Roles",
+                "permissions": "Permissions"
+            }
+        }
+    }
+}
