@@ -295,7 +295,7 @@
             "detail": {
                 "properties": "属性",
                 "members": "成员",
-                "actionRelations": "行为关系",
+                "actionRelations": "行为",
                 "roles": "角色",
                 "permissions": "权限"
             }

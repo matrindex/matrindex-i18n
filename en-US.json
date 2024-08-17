@@ -295,7 +295,7 @@
             "detail": {
                 "properties": "Properties",
                 "members": "Members",
-                "actionRelations": "Action Relations",
+                "actionRelations": "Actions",
                 "roles": "Roles",
                 "permissions": "Permissions"
             }
