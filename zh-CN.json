@@ -46,6 +46,8 @@
     "noQuit": "保留成员身份",
     "filter": "过滤",
     "transfer": "转交",
+    "publicKey": "公钥",
+    "privateKey": "私钥",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
@@ -250,6 +252,12 @@
             "firstName": "首名",
             "lastName": "尾名",
             "fullName": "全名"
+        },
+        "TenantDTO": {
+            "thumbnail": "头像",
+            "implicitMembershipEnabled": "开启隐式成员",
+            "isSonar": "开启 Sonar",
+            "clientPublicKey": "客户端公钥"
         }
     },
     "endityEditor": {

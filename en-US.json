@@ -46,6 +46,8 @@
     "noQuit": "Keep Membership",
     "filter": "Filter",
     "transfer": "Transfer",
+    "publicKey": "Public Key",
+    "privateKey": "Private Key",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
@@ -250,6 +252,12 @@
             "firstName": "First Name",
             "lastName": "Last Name",
             "fullName": "Full Name"
+        },
+        "TenantDTO": {
+            "thumbnail": "Thumbnail",
+            "implicitMembershipEnabled": "Enable Implicit Membership",
+            "isSonar": "Enable Sonar",
+            "clientPublicKey": "Client Public Key"
         }
     },
     "endityEditor": {
