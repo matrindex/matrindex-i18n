@@ -178,6 +178,22 @@
                         "updatedAt": "请输入更新时间"
                     }
                 },
+                "tenants": {
+                    "fields": {
+                        "name": "名称",
+                        "title": "标题",
+                        "description": "描述",
+                        "createdAt": "创建时间",
+                        "updatedAt": "更新时间"
+                    },
+                    "placeholders": {
+                        "name": "请输入名称",
+                        "title": "请输入标题",
+                        "description": "请输入描述",
+                        "createdAt": "请输入创建时间",
+                        "updatedAt": "请输入更新时间"
+                    }
+                },
                 "users": {
                     "fields": {
                         "id": "ID",

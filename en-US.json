@@ -178,6 +178,22 @@
                         "updatedAt": "Please input update time"
                     }
                 },
+                "tenants": {
+                    "fields": {
+                        "name": "Name",
+                        "title": "Title",
+                        "description": "Description",
+                        "createdAt": "Create Time",
+                        "updatedAt": "Update Time"
+                    },
+                    "placeholders": {
+                        "name": "Please input name",
+                        "title": "Please input title",
+                        "description": "Please input description",
+                        "createdAt": "Please input create time",
+                        "updatedAt": "Please input update time"
+                    }
+                },
                 "users": {
                     "fields": {
                         "id": "ID",
