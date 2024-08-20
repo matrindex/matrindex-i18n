@@ -49,6 +49,7 @@
     "transfer": "转交",
     "publicKey": "公钥",
     "privateKey": "私钥",
+    "size": "大小",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",

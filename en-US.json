@@ -49,6 +49,7 @@
     "transfer": "Transfer",
     "publicKey": "Public Key",
     "privateKey": "Private Key",
+    "size": "Size",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
