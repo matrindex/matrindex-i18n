@@ -51,6 +51,7 @@
     "privateKey": "私钥",
     "size": "大小",
     "progress": "进度",
+    "download": "下载",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",

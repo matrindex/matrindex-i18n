@@ -51,6 +51,7 @@
     "privateKey": "Private Key",
     "size": "Size",
     "progress": "Progress",
+    "download": "Download",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
