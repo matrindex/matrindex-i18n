@@ -50,6 +50,7 @@
     "publicKey": "Public Key",
     "privateKey": "Private Key",
     "size": "Size",
+    "progress": "Progress",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
