@@ -115,6 +115,9 @@
             "TenantFormDialogAdapter": {
                 "createTitle": "创建租户",
                 "updateTitle": "更新租户"
+            },
+            "TenantSelectFormDialogAdapter": {
+                "title": "选择租户"
             }
         },
         "infoItem": {

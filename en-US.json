@@ -115,6 +115,9 @@
             "TenantFormDialogAdapter": {
                 "createTitle": "Create Tenant",
                 "updateTitle": "Update Tenant"
+            },
+            "TenantSelectFormDialogAdapter": {
+                "title": "Select Tenants"
             }
         },
         "infoItem": {
