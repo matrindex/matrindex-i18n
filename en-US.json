@@ -118,6 +118,9 @@
             },
             "TenantSelectFormDialogAdapter": {
                 "title": "Select Tenants"
+            },
+            "SpaceSelectFormDialogAdapter": {
+                "title": "Select Spaces"
             }
         },
         "infoItem": {

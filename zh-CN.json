@@ -118,6 +118,9 @@
             },
             "TenantSelectFormDialogAdapter": {
                 "title": "选择租户"
+            },
+            "SpaceSelectFormDialogAdapter": {
+                "title": "选择空间"
             }
         },
         "infoItem": {
