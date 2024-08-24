@@ -53,6 +53,7 @@
     "progress": "Progress",
     "download": "Download",
     "maximumSizeExceeded": "Maximum size exceeded",
+    "loading": "Loading",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
