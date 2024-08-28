@@ -92,7 +92,10 @@
         "deleteSpaceAction": "Sure to delete these space actions?"
     },
     "emailMessages": {
-        "requestSignInCode": "<p>Your sign-in code is:</p><h1>{{code}}</h1><p>Enter the code in 5 minutes, or it will be invalid.</p>"
+        "requestSignInCode": {
+            "title": "Your sign-in code is now renewed",
+            "body": "<p>Your sign-in code is:</p><h1>{{code}}</h1><p>Enter the code in 5 minutes, or it will be invalid.</p>"
+        }
     },
     "ui": {
         "formDialog": {
