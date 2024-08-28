@@ -94,7 +94,10 @@
     "emailMessages": {
         "requestSignInCode": {
             "title": "Your sign-in code is now renewed",
-            "body": "<p>Your sign-in code is:</p><h1>{{code}}</h1><p>Enter the code in 5 minutes, or it will be invalid.</p>"
+            "body": {
+                "paragraph1": "Your sign-in code is:",
+                "paragraph2": "Enter the code in {{expirationMinutes}} minutes, or it will be invalid."
+            }
         }
     },
     "ui": {

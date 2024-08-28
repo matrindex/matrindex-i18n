@@ -93,8 +93,11 @@
     },
     "emailMessages": {
         "requestSignInCode": {
-            "title": "你的登录代码现已刷新",
-            "body": "<p>你的登录代码是:</p><h1>{{code}}</h1><p>在 5 分钟内输入此代码，否则它将会失效。</p>"
+            "title": "你的登录代码已被刷新",
+            "body": {
+                "paragraph1": "你的登录代码是：",
+                "paragraph2": "在 {{expirationMinutes}} 分钟内输入此代码，否则它将失效"
+            }
         }
     },
     "ui": {
