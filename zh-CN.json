@@ -54,6 +54,10 @@
     "download": "下载",
     "maximumSizeExceeded": "超出最大值",
     "loading": "加载中",
+    "loginMethod": "登录方式",
+    "email": "E-mail",
+    "password": "密码",
+    "signInCode": "登录代码",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",

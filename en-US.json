@@ -54,6 +54,10 @@
     "download": "Download",
     "maximumSizeExceeded": "Maximum size exceeded",
     "loading": "Loading",
+    "loginMethod": "Login Method",
+    "email": "E-mail",
+    "password": "Password",
+    "signInCode": "Sign-in Code",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
