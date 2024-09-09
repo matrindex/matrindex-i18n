@@ -58,6 +58,7 @@
     "email": "E-mail",
     "password": "Password",
     "signInCode": "Sign-in Code",
+    "sendSignInCode": "Send Sign-in Code",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
