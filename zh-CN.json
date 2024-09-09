@@ -58,7 +58,7 @@
     "email": "E-mail",
     "password": "密码",
     "signInCode": "登录代码",
-    "sendSignInCode": "发送登录代码",
+    "sendSignInCode": "发送代码",
     "enums": {
         "UserIdentifierType": {
             "EMAIL": "E-mail",
