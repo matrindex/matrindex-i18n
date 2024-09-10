@@ -112,5 +112,6 @@
     "Signing-in to": "正在登录到",
     "Your sign-in code is now renewed": "你的登录代码现已被刷新",
     "Your sign-in code is:": "你的登录代码是：",
-    "Enter the code in {{expirationMinutes}} minutes, or it will be invalid.": "在 {{expirationMinutes}} 分钟内输入此代码，否则它将失效。"
+    "Enter the code in {{expirationMinutes}} minutes, or it will be invalid.": "在 {{expirationMinutes}} 分钟内输入此代码，否则它将失效。",
+    "Operations": "操作"
 }
