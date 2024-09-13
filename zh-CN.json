@@ -118,5 +118,6 @@
     "Operations": "操作",
     "Type not supported": "类型不受支持",
     "Failed to get upload credential, please retry later": "获取上传凭证失败，请稍后重试",
-    "File name": "文件名称"
+    "File name": "文件名称",
+    "Tenant ID": "租户 ID"
 }
