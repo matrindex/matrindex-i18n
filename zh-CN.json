@@ -65,6 +65,7 @@
     "Department": "部门",
     "Tenant": "租户",
     "Relation type": "关系类型",
+    "Type": "类型",
     "Resource identifier": "资源标识符",
     "User identifier": "用户标识符",
     "Membership relation action type": "成员关系行为类型",
