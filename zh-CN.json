@@ -121,5 +121,6 @@
     "File name": "文件名称",
     "Tenant ID": "租户 ID",
     "Create resource": "创建资源",
-    "Update resource": "更新资源"
+    "Update resource": "更新资源",
+    "Role Instances": "角色实例"
 }
