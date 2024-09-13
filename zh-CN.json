@@ -115,5 +115,6 @@
     "Enter the code in {{expirationMinutes}} minutes, or it will be invalid.": "在 {{expirationMinutes}} 分钟内输入此代码，否则它将失效。",
     "Operations": "操作",
     "Type not supported": "类型不受支持",
-    "Failed to get upload credential, please retry later": "获取上传凭证失败，请稍后重试"
+    "Failed to get upload credential, please retry later": "获取上传凭证失败，请稍后重试",
+    "File name": "文件名称"
 }
