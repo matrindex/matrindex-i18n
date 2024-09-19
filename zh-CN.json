@@ -97,7 +97,7 @@
     "Type to search...": "输入以搜索...",
     "Root": "根",
     "Send code": "发送代码",
-    "{{count}} permission(s) granted": "已授予 {{count}} 个权限",
+    "{{count}} permission(s) selected": "已选择 {{count}} 个权限",
     "Cancel fixation": "取消固定",
     "Fix to the left": "固定在左侧",
     "Fix to the right": "固定在右侧",
