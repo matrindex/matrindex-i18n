@@ -128,5 +128,8 @@
     "Basics": "基础",
     "System permissions": "系统权限",
     "Select system permission actions": "选择系统权限行为",
-    "Still stay in current space": "仍然留在当前空间"
+    "Still stay in current space": "仍然留在当前空间",
+    "Reset all": "重置所有",
+    "Reset value only": "仅重置值",
+    "Reset filter operator": "仅重置筛选操作符"
 }
