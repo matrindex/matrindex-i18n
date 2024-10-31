@@ -135,5 +135,6 @@
     "Reset value only": "仅重置值",
     "Reset filter operator only": "仅重置筛选操作符",
     "Subordinate": "下级",
-    "Details": "详情"
+    "Details": "详情",
+    "System permission operation": "系统权限操作"
 }
